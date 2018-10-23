@@ -1,9 +1,9 @@
 # Bootstrap Course
 
 ## Introduction
-* Welcome
-* What is Bootstrap and Why
-* Set up
+* Welcome to  the Bootstrap Course
+* Introduction - What is Bootstrap and Why
+* Envinronment Set up
 
 ## Layout: The Grid System
 * What is the grid system and how it works
