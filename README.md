@@ -1,21 +1,25 @@
 # Bootstrap Course
 
 ## Introduction
+
 * Welcome to  the Bootstrap Course
 * Introduction - What is Bootstrap and Why
 * Envinronment Set up
 
 ## Layout: The Grid System
+
 * What is the grid system and how it works
 * Flex-box
 * Grid options
 
 ##  Content
+
 * Typography
 * Tables
 * Images
 
 ## Components
+
 * Card
 * Navs
 * Navbar
@@ -26,5 +30,5 @@
 * Dropdowns
 
 ## Projects that they can complete
-* Project 1
-* Project 2
+
+* Capstone project
