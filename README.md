@@ -8,7 +8,8 @@
 
 ## Layout: The Grid System
 
-* What is the grid system and how it works
+* Media Queries
+* Grid system
 * Flex-box
 * Grid options
 
