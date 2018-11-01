@@ -10,8 +10,6 @@
 
 * Media Queries
 * Grid system
-* Flex-box
-* Grid options
 
 ##  Content
 
