@@ -24,8 +24,6 @@
 * Forms
 * Card
 * Navs
-* Navbar
-* Modals
 
 ## Projects that they can complete
 
