@@ -19,14 +19,13 @@
 
 ## Components
 
+* Buttons
+* Dropdowns
+* Forms
 * Card
 * Navs
 * Navbar
 * Modals
-* Carousel
-* Forms
-* Buttons
-* Dropdowns
 
 ## Projects that they can complete
 
