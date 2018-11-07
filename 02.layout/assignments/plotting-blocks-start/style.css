@@ -1,0 +1,9 @@
+.box {
+    height: 225px;
+    margin-bottom: 15px;
+}
+
+.content {
+    background-color: red;
+    height: 100%;
+}
